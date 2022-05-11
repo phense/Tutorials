@@ -1,4 +1,4 @@
-[Index](./index.md) ::[Basics](./1-preinstall-basics.md) :: **Backup** ::
+[Index](./readme.md) ::[Basics](./1-preinstall-basics.md) :: **Backup** ::
 
 * * *
 
